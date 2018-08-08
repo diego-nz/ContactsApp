@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">AndroidContactsApp</string>
+    <string name="name">Nombre</string>
+    <string name="lastname">Apellido Paterno</string>
+    <string name="surname">Apellido Materno</string>
+    <string name="phone">Teléfono</string>
+    <string name="address">Dirección</string>
+    <string name="empty_information">!Ops looks like you don\'t have contacts yet!</string>
+</resources>
